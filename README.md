@@ -14,6 +14,6 @@ Just a fun project. Interactive real-time 2D visualization of the Mandelbrot set
 
 ## Notes
 
-Edit the CMakeFiles.txt!
+Edit the CMakeLists.txt!
 
 The GUI was made using Dear Imgui.
